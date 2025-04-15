@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tokyokasouchokusousai.github.io/funeral-service-site/sitemap.xml
